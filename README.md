@@ -23,7 +23,7 @@ $ npm start
 ```
 Open the application in your web browser by visiting the following URL: https://github.com/Ritesh-shekhar/Habit-Tracker
 ```
-$ http://localhost:9000
+$ http://localhost:8000
 ```
 
 ## Usage
